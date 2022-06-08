@@ -4,7 +4,7 @@ cd /caok15/Video-Swin-Transformer
 # source /root/anaconda3/bin/activate /root/anaconda3/envs/pytorch
 # conda activate pytorch
 
-CONFIG="mytrain/swin_base_patch244_window877_tld17k_22k.py"
+CONFIG="mytrain/swin_base_patch244_window877_tld17k3c_22k.py"
 
 
 PYTHONPATH="$(dirname $0)/..":$PYTHONPATH \
